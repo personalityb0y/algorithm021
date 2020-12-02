@@ -20,7 +20,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-public class day3_两数之和 {
+public class day3_n1_两数之和 {
 
     public static void main(String[] args) {
         int[] a = {0, 4, 3, 0};
