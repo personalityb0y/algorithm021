@@ -1,11 +1,11 @@
-package task;
+package day;
 
 import java.util.Arrays;
 
 /**
  * 【day 2】
  */
-public class n66_加一{
+public class day2_n66_加一 {
 
     public static void main(String[] args) {
         int [] a = {1,2,3,4,5,6,7};
