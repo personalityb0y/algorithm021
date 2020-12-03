@@ -70,7 +70,6 @@ public class day4_n24_两两交唤 {
     // 两两交换函数
     public static ListNode swapPairs(ListNode head) {
 
-
         if(head.next == null){
             return head;
         }
